@@ -12,7 +12,7 @@ If you have successfully completed all the steps, congratulations you are ready 
 #### Create Snowsql Credentials File
 ```
 [connections.dev]
-accountname = KIB57839
+accountname = asb06276.prod3.us-west-2.aws
 username = stirnj
 password = "SoElDI903!!"
 rolename = HOL_ROLE
