@@ -12,9 +12,9 @@ If you have successfully completed all the steps, congratulations you are ready 
 #### Create Snowsql Credentials File
 ```
 [connections.dev]
-accountname = myaccount
-username = myusername
-password = "mypassword"
+accountname = KIB57839
+username = stirnj
+password = "SoElDI903!!"
 rolename = HOL_ROLE
 warehousename = HOL_WH
 dbname = HOL_DB
