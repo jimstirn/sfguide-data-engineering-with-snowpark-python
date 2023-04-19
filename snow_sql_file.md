@@ -14,7 +14,7 @@ If you have successfully completed all the steps, congratulations you are ready 
 [connections.dev]
 accountname = asb06276.prod3.us-west-2.aws
 username = stirnj
-password = "SoElDI903!!"
+password = "password"
 rolename = HOL_ROLE
 warehousename = HOL_WH
 dbname = HOL_DB
